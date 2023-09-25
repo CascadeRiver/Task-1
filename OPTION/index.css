@@ -1,0 +1,27 @@
+h1{
+    background-color: azure;
+    color: lightsalmon;
+}
+
+.homelist{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    text-align: center;
+    background-color: dimgrey;
+
+    padding: 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+body{
+    font-family: 'Segoe UI';
+}
+
+p{
+    font-family: Verdana;
+}
